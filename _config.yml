@@ -1,0 +1,28 @@
+name: literacyladders
+favicon: null
+layout_spectrum: 0.560422771377489
+typography_spectrum: 0.6223564422689378
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.26591191068291664
+  lightness: 0.9579885380808264
+  saturation: 0.1932431454770267
+  rhythmicContrast: 0.2923810235224664
+purpose: []
