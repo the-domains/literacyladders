@@ -32,6 +32,9 @@ navigation:
   - name: Welcome to Literacy Ladders!
     id: e7585918-6476-42b3-bdfa-07f4a7665294
     type: content
+  - name: 'Blog: "Stickers are banned from my house!"'
+    id: 6fe9d1ec-5e12-4e4b-b493-9f060958d6f6
+    type: content
 favicon: null
 title: Welcome to Literacy Ladders!
 purpose: []
