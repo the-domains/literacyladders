@@ -3,21 +3,19 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: "\"Don't let my daughter see those sticker books! Stickers are banned from my house!\""
-datePublished: '2016-03-09T23:13:44.974Z'
-dateModified: '2016-03-09T22:58:09.035Z'
-title: '"Stickers are banned from my house!"'
+description: >-
+  "Don't let my daughter see those sticker books! Stickers are banned from my
+  house!"
+datePublished: '2016-08-30T19:16:06.096Z'
+dateModified: '2016-08-30T19:16:05.466Z'
+title: ''
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-03-09-stickers-are-banned-from-my-house.md
-published: true
+via: {}
+starred: false
 url: stickers-are-banned-from-my-house/index.html
 _type: Article
 
