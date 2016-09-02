@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Welcome to Literacy Ladders!
+    id: e7585918-6476-42b3-bdfa-07f4a7665294
+    type: content
 favicon: null
 title: Welcome to Literacy Ladders!
 purpose: []
